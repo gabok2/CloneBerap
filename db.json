@@ -1,0 +1,47 @@
+{
+  "Imagens": [
+    {
+      "id": 1,
+
+      "image": "https://i.imgur.com/KOK0wAw.png",
+
+      "color": "#28db04"
+    },
+    {
+      "id": 2,
+      "color": "#28db04",
+      "image": "https://i.imgur.com/BRucbX6.png"
+    },
+    {
+      "id": 3,
+      "color": "#28db04",
+      "image": "https://i.imgur.com/bBYVzyK.png"
+    }
+  ],
+  "Cabelos": [
+    {
+      "id": 1,
+      "color": "#28db04",
+      "cabeloMenor": "https://i.imgur.com/2WmPWDe.png",
+      "image": "https://i.imgur.com/gLrofvV.png"
+    },
+    {
+      "id": 2,
+      "color": "#28db04",
+      "cabeloMenor": "https://i.imgur.com/C5g4WyQ.png",
+      "image": "https://i.imgur.com/fOsPDaj.png"
+    },
+    {
+      "id": 3,
+      "color": "#28db04",
+      "cabeloMenor": "https://i.imgur.com/dzJ5LNZ.png",
+      "image": "https://i.imgur.com/xQGXDk9.png"
+    },
+    {
+      "id": 4,
+      "color": "#28db04",
+      "cabeloMenor": "https://i.imgur.com/dzJ5LNZ.png",
+      "image": "https://i.imgur.com/xQGXDk9.png"
+    }
+  ]
+}
